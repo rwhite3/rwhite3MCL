@@ -1,0 +1,51 @@
+{
+  "label": "Western romances",
+  "descriptions": "Western romance novels"
+  "resources":  [
+{
+"label": "A Lady Like Sarah: a Rocky Creek Romance",
+"isbns":  [
+"9781595548092"
+]
+},
+{
+"label": "Wyoming Rugged",
+"isbns": [
+"9781410485199",
+"9780373789047"
+]
+},
+{
+"label": "Outlaw Hearts",
+"isbns": [
+"9781492612810"
+]
+},
+{
+"label": "The Outlaw's Mail Order Bride";
+"isbns": [
+"9781492651062",
+"9781492651048"
+]
+},
+{
+"label": "Forever a Hero",
+"isbns": [
+"9780373803927",
+"9780373789702"
+]
+},
+{
+"label": "The Cowboy's Honor",
+"isbns": [
+"9781492652007"
+]
+},
+{
+"label": "Renegade",
+"isbns": [
+"9781492667070"
+]
+}
+]
+}
