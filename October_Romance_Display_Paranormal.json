@@ -1,0 +1,106 @@
+﻿{
+	"label": "BOOtastic Romances",
+	"description": "Paranormal romance books",
+	"resources": [
+{
+"label":"The Return of the Witch",
+"isbns": [
+"9781250028815"
+]
+},
+{
+"label":"The Cottage on Pumpkin and Vine",
+"isbns": [
+"9781496706881"
+]
+},
+{
+"label":"Dark Lycan",
+"isbns": [
+"9780425268339",
+"9781410460639"
+]
+},
+{
+"label": "The Wolf Who Loved Me",
+"isbns": [
+"9781402263460",
+"9781402263484"
+]
+},
+{
+"label": "Dark Ghost",
+"isbns": [
+"9780425277331",
+"9781101925126"
+]
+},
+{
+"label": "Dating the Undead",
+"isbns": [
+"9781492645306"
+]
+},
+{
+"label": "The Rules of Magic",
+"isbns": [
+"9781501137471",
+"9781501137495",
+"9781508238294",
+"9781683246329"
+]
+},
+{
+"label": "Her Lone Wolf",
+"isbns": [
+"9781402292125",
+"9781322152257",
+"9781402292132"
+]
+},
+{
+"label": "Deadmen Walking",
+"isbns": [
+"9780765385680",
+"9781427287205"
+]
+},
+{
+"label": "Rapture",
+"isbns": [
+"9780451238016",
+"9781101598535"
+]
+},
+{
+"label": "Ghost Moon",
+"isbns": [
+"9781410428240"
+]
+},
+{
+"label": "The Last Time I Saw Her",
+"isbns": [
+"9781410480484",
+"9780804178297",
+"9780399566738",
+"9780804178310"
+]
+},
+{
+"label": "All I Want for Halloween",
+"isbns": [
+"9781492656531",
+"9781492656555",
+"9781492656548"
+]
+},
+{
+"label": "Shadow and Ice",
+"isbns": [
+"9781335041104",
+"9781488205316"
+]
+}
+]
+}
