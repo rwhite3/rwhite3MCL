@@ -1,0 +1,81 @@
+﻿{
+	"label": "Amensia Romances",
+	"description": "Romance books where one of the characters has amnesia.",
+	"resources": [
+{
+"label":"The Duke is but a Dream",
+"isbns": [
+"97812501199485"
+]
+},
+{
+"label":"Forget Me Not",
+"isbns": [
+"9781335906120",
+"9780446709842"
+]
+},
+{
+"label":"The Goodbye Bride",
+"isbns": [
+"9780718023737",
+"9780718023744"
+]
+},
+{
+"label": "His Sinful Touch",
+"isbns": [
+"9780373789962"
+]
+},
+{
+"label": "Honor Thyself",
+"isbns": [
+"9780385340243"
+]
+},
+{
+"label": "The Last Letter from your Lover",
+"isbns": [
+"9780670022809",
+"9781410440570",
+"9781101516997"
+]
+},
+{
+"label": "Loving a Lost Lord",
+"isbns": [
+"9781602855311",
+"9781420131673"
+]
+},
+{
+"label":"The Man Without a Shadow",
+"isbns": [
+"9780062416117",
+"9780062416094",
+"9780062444592"
+]
+},
+{
+"label":"Rapture",
+"isbns": [
+"9781101598535",
+""
+]
+},
+{
+"label": "The Verdun Affair : a novel",
+"isbns": [
+"9781501191763",
+""
+]
+},
+{
+"label": "With This Man",
+"isbns": [
+"9781538745199"
+]
+}
+]
+}
