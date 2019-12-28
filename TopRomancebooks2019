@@ -1,22 +1,18 @@
 {
 	"label": "Top Most Checked Out Romance Books of 2019",
 	"description": "These are the most checked out romance books at the library for 2019.",
-	"lists": [
+	"list": [
 {
 "label": "Every Breath",
 "isbns": [
-"9781549194696",
 "9781538714683",
 "9781538728529",
-"9788416867943",
-"9781549121036"
 ]
 },
 {
 "label": "The Little Shop of Found Things",
 "isbns": [
-"9781250072436",
-"9781466884106"
+"9781250072436"
 ]
 },
 {
@@ -29,17 +25,13 @@
 {
 "label": "Good Riddance",
 "isbns": [
-"9780544808256",
-"9780544808287",
-"9781974926923"
+"9780544808256"
 ]
 },
 {
 "label": "Driftwood Bay",
 "isbns": [
-"9780800728816",
-"9781493416509",
-"9781643581897"
+"9780800728816"
 ]
 },
 {
@@ -69,8 +61,7 @@
 {
 "label": "Why Not Tonight",
 "isbns": [
-"9781335005908",
-"9781432856045"
+"9781335005908"
 ]
 },
 {
@@ -130,8 +121,7 @@
 {
 "label": "Fulfillment",
 "isbns": [
-"9780727888297",
-"9781624064029"
+"9780727888297"
 ]
 },
 {
