@@ -1,0 +1,8 @@
+﻿{
+	"label": "First Ladies of the United States",
+	"description": "Biographies about First Ladies of the United States.",
+	"resources": [
+		"S2uUOQZz52w",
+		"ICUDvgEg5Pk"
+]
+}
