@@ -1,0 +1,124 @@
+﻿{
+	"label": "Adeventure Story Romances",
+	"description": "Finding Love is Always an Adventure",
+	"list": [
+{
+"label":"Blood Oath",
+"isbns": [
+"9780316386746"
+]
+},
+{
+"label":"Forbidden Legacy",
+"isbns": [
+"9781601837523"
+]
+},
+{
+"label":"The Interior",
+"isbns": [
+"9780060192617"
+]
+},
+{
+"label": "Jade Island",
+"isbns": [
+"9780380974030"
+]
+},
+{
+"label": "The Lady in the Coppergate Tower",
+"isbns": [
+"9781629725543"
+]
+},
+{
+"label": "Late Nights on Air",
+"isbns": [
+"9781436160070"
+]
+},
+"label": "Lawson",
+"isbns": [
+"9781538762561"
+]
+},
+"label": "The Library of Fates",
+"isbns": [
+"9781101999035"
+]
+},
+"label": "Midnight in Ruby Bayou",
+"isbns": [
+"9780380974054"
+]
+},
+"label": "The Mountain Shadow",
+"isbns": [
+"9780802124456"
+]
+},
+"label": "On Thin Ice",
+"isbns": [
+"9780345475794"
+]
+},
+"label": "Once a Spy",
+"isbns": [
+"9781420148107"
+]
+},
+"label": "The Outcasts: a novel",
+"isbns": [
+"9780316206129"
+]
+},
+"label": "Pearl Cove",
+"isbns": [
+"9780380974047"
+]
+},
+"label": "The Republic of Thieves",
+"isbns": [
+"9780553804690",
+"9780553905588"
+]
+},
+"label": "Secrets from the Past",
+"isbns": [
+"9781611737240"
+]
+},
+"label": "Slow Ride",
+"isbns": [
+"9781335504944"
+]
+},
+"label": "The Smile of a Stranger",
+"isbns": [
+"9781492641278"
+]
+},
+"label": "Stardust: a novel",
+"isbns": [
+"9780060010829"
+]
+},
+"label": "The Stars Shine Down",
+"isbns": [
+"9780688084905"
+]
+},
+"label": "To Have and Have Not",
+"isbns": [
+"9780684859231"
+]
+},
+"label": "The Wind is Not a River",
+"isbns": [
+"9781410468697",
+"9780062279972"
+]
+}
+]
+}

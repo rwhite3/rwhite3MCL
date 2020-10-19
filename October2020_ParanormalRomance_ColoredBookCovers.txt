@@ -1,0 +1,198 @@
+﻿{
+	"label": "Paranormal Romances for Halloween",
+	"description": "Books covers are either Green, Purple, Orange, or Black",
+	"list": [
+{
+"label":"Moonlight Scandals",
+"isbns": [
+"9780062674579"
+]
+},
+{
+"label":"Etched in Bone: A Novel of the Others",
+"isbns": [
+"9780451474490"
+]
+},
+{
+"label":"The Return of the Witch",
+"isbns": [
+"9781250028815"
+]
+},
+{
+"label": "The Midnight Witch",
+"isbns": [
+"9781250006080"
+]
+},
+{
+"label": "The Witch's Daughter",
+"isbns": [
+"9781250004086"
+]
+},
+{
+"label": "Dark Ghost",
+"isbns": [
+"9780425277331"
+]
+},
+{
+"label": "Dark Sentinel",
+"isbns": [
+"9780451490087"
+]
+},
+{
+"label": "Shadow Fight",
+"isbns": [
+"9780593099797"
+]
+},
+{
+"label": "Hunger for You",
+"isbns": [
+"9781635551686"
+]
+},
+{
+"label": "Would-be Witch",
+"isbns": [
+"9780425225776"
+]
+},
+{
+"label": "As Shadows Fade",
+"isbns": [
+"9780451226327"
+]
+},
+{
+"label": "When Twilight Burns",
+"isbns": [
+"9780451224750"
+]
+},
+{
+"label": "Frost Line",
+"isbns": [
+"9780349413945"
+]
+},
+{
+"label": "The Sword",
+"isbns": [
+"9780425220603"
+]
+},
+{
+"label": "The Wolf",
+"isbns": [
+"9780425220870"
+]
+},
+{
+"label": "Son of No One",
+"isbns": [
+"9781250029911"
+]
+},
+{
+"label": "Beauty and the Werewolf",
+"isbns": [
+"9780373803286"
+]
+},
+{
+"label": "Embraced by Blood",
+"isbns": [
+"9780373775866"
+]
+},
+{
+"label": "Kiss of Steel",
+"isbns": [
+"9781402270277"
+]
+},
+{
+"label": "My Favorite Witch",
+"isbns": [
+"9781420105681"
+]
+},
+{
+"label": "The Rose",
+"isbns": [
+"9780778307921"
+]
+},
+{
+"label": "Prince Lestat and the Realms of Atlantis",
+"isbns": [
+"9780385353793"
+]
+},
+{
+"label": "The Last Time I Saw Her: A Novel",
+"isbns": [
+"9780804178297"
+]
+},
+{
+"label": "The Secret Language of Stones: A Novel",
+"isbns": [
+"9781476778099"
+]
+},
+{
+"label": "A Quick Bite",
+"isbns": [
+"9780060773755"
+]
+},
+{
+"label": "Ocean Light",
+"isbns": [
+"9781101987827"
+]
+},
+{
+"label": "A Highland Wolf Christmas",
+"isbns": [
+"9781402293764"
+]
+},
+{
+"label": "Immortal: A Novel of the Fallen Angels",
+"isbns": [
+"9780451241160"
+]
+},
+{
+"label": "The King: A Novel of the Black Dagger Brotherhood",
+"isbns": [
+"9780451417053"
+]
+},
+{
+"label": "Lover Reborn: A Novel of the Black Dagger Brotherhood",
+"isbns": [
+"9780451235848"
+]
+},
+{
+"label": "Possession",
+"isbns": [
+"9780451240194"
+]
+},
+{
+"label": "The Savior",
+"isbns": [
+"9781501194948"
+]
+}
+]
+}
